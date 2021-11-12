@@ -15,5 +15,5 @@ The icons will be shown in the app info screen, recent apps, and stock launcher.
 # Disclaimer
 These icons were extracted from the MiRoom ROM project, which has unfortunately shut down.
 \
-Only the code is licensed under GPLv3. All image assets are property of the MiRoom developers.
+Only the code is licensed under GPLv3. All image assets are property of the MiRoom developers. +++
 
